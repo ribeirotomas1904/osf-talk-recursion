@@ -1,4 +1,5 @@
 // some videos and readings about recursion
+// https://github.com/ribeirotomas1904/osf-talk-recursion/blob/main/index.js
 // https://en.wikipedia.org/wiki/Recursion_(computer_science)
 // https://www.youtube.com/watch?v=-PX0BV9hGZY&ab_channel=Confreaks
 // https://www.youtube.com/watch?v=Mv9NEXX1VHc&list=PLaxvM12Ynpsr2j3izyHwy1kbG_Swg03hd&ab_channel=Computerphile
